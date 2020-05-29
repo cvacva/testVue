@@ -6,17 +6,6 @@
 </template>
 <script>
     export default {
-        data() {
-            return {}
-        },
-        methods: {
-            initChart() {
-                console.log('22')
-                // var myChart = echarts.init(document.getElementById('main'));
-            }
-        },
-        mounted() {
-            this.initChart()
-        }
+      
     }
 </script>
